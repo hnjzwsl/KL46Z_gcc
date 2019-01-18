@@ -1,0 +1,15 @@
+"D:\IAR_installer\arm\bin\armproc.dll" 
+
+"D:\IAR_installer\arm\bin\armjlink2.dll" 
+
+"C:\Users\dungh\Desktop\KL46Z256_Freedom\1 doccuments\boards\frdmkl46z\driver_examples\pit\iar\debug\pit.out" 
+
+--plugin "D:\IAR_installer\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR_installer\arm\config\debugger\NXP\KLxx.dmac" 
+
+--flash_loader "D:\IAR_installer\arm\config\flashloader\NXP\FlashKLxx256K.board" 
+
+
+
+

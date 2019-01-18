@@ -1,0 +1,56 @@
+Release Name: MCUXpresso Software Development Kit (SDK)
+Release Version: 2.4.1
+
+CMSIS Core header files    Author: ARM                                       
+                           parentversion: 5.0.1                              
+                           URL: http://silver.arm.com                        
+                           name: CMSIS Core header files                     
+                           Format: source code                               
+                           License: Apache License 2.0, See                  
+                           <rootfolder>/CMSIS/LICENSE.txt                    
+                           Location: CMSIS/Include                           
+                           version: 5.0.1 (CMSIS Download 5.0.1)             
+                           Description: Industry-standard header files       
+                           distributes by ARM for cortex-M cores             
+
+FatFs                      Approved Open Source License: Yes                 
+                           Author: Electronic Lives Mfg. by ChaN of Ageo     
+                           city, Japan (hobbyist)                            
+                           Description: FatFs is a generic FAT file system   
+                           module for small embedded systems.                
+                           Format: source code                               
+                           License: Open Source - FatFs License,             
+                           <rootfolder>/middleware/fatfs/doc/en/appnote.html 
+                           Location: middleware/fatfs                        
+                           name: FatFs                                       
+                           URL: http://elm-chan.org/fsw/ff/00index_e.html    
+                           version: 0.12c                                    
+
+KSDK Peripheral Driver     Description: Peripheral drivers are designed for  
+                           the most common use cases indentified for         
+                           the underlying hardware block.                    
+                           Author: Freescale                                 
+                           Version: 2.x.x                                    
+                           License: Open Source - BSD-3-Clause Clear         
+                           Format: source code                               
+                           Location: devices/<device_name>/drivers           
+
+USB                        version: 1.6.3                                    
+                           Location: middleware/usb                          
+                           Description: Freescale USB stack. This is a       
+                           version of the USB stack that has been integrated 
+                           with the MCUXpresso SDK.                          
+                           License: Open Source - BSD-3-Clause Clear         
+                           Author: Freescale                                 
+                           name: USB                                         
+                           Format: source code                               
+
+mmCAU S/W Library          Author: Freescale                                 
+                           Description: S/W library that works with the      
+                           memory-mapped cryptographic acceleration unit     
+                           present on some MCUXpresso SoCs                   
+                           Format: source code                               
+                           License: Open Source - BSD-3-Clause Clear         
+                           Location: middleware/mmcau                        
+                           name: mmCAU S/W Library                           
+                           version: 2.0.1                                    
